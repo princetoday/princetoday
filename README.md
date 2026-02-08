@@ -1,21 +1,16 @@
-👋 Hi, I'm @princetoday  
-🎓 CSE (AIML) Undergraduate  
+Hi, I’m Prince Raj 👋  
+2nd Year CSE (AIML) student who enjoys building things that people actually use.
 
-🌱 Skills:
+I started coding out of curiosity, and somewhere along the way it became a 
+habit of turning ideas into working software. I enjoy shipping projects, 
+refining them, and learning from real-world feedback.
+
+ Interests & skills:
 - Python, NumPy, Pandas
-- Machine Learning (beginner–intermediate)
-- Data Analysis & Visualization
-- Learning Generative AI (LLMs, embeddings)
+- Machine Learning & data-driven projects
+- Currently exploring Generative AI
 
-📌 What I do:
-- Build ML & data-driven projects
-- Explore real-world datasets
-- Experiment with GenAI applications
-
-📂 Featured Projects:
-- 📊 Student Performance Analysis (Pandas, ML)
-- 🤖 ML Classification Project
-- 🌱 GenAI Mini Project (in progress)
+I believe the best software feels invisible — no friction, just value.
 
 📫 Reach me:
 - LinkedIn: <www.linkedin.com/in/prince-raj-6b645b324>
