@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @princetoday
-- 👀 I’m interested in python, ML.
-- 🌱 I’m currently learning Gen AI .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/prince-raj-6b645b324
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm @princetoday  
+🎓 CSE (AIML) Undergraduate  
 
-<!---
-princetoday/princetoday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Skills:
+- Python, NumPy, Pandas
+- Machine Learning (beginner–intermediate)
+- Data Analysis & Visualization
+- Learning Generative AI (LLMs, embeddings)
+
+📌 What I do:
+- Build ML & data-driven projects
+- Explore real-world datasets
+- Experiment with GenAI applications
+
+📂 Featured Projects:
+- 📊 Student Performance Analysis (Pandas, ML)
+- 🤖 ML Classification Project
+- 🌱 GenAI Mini Project (in progress)
+
+📫 Reach me:
+- LinkedIn: <www.linkedin.com/in/prince-raj-6b645b324>
+- Email: <princetatoday77@gmailcom>
+
+🚀 Open to startup internships (ML / AI / Python)
