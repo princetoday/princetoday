@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princetoday
-- 👀 I’m interested in python, c++ , c lnaguage programming.
-- 🌱 I’m currently learning AI and ML.
+- 👀 I’m interested in python, ML.
+- 🌱 I’m currently learning Gen AI .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/prince-raj-6b645b324
 - 😄 Pronouns: ...
