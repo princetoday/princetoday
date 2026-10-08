@@ -1,5 +1,5 @@
 Hi, I’m Prince Raj 👋  
-2nd Year CSE (AIML) student who enjoys building things that people actually use.
+3rd Year CSE (AIML) student who enjoys building things that people actually use.
 
 I started coding out of curiosity, and somewhere along the way it became a 
 habit of turning ideas into working software. I enjoy shipping projects, 
